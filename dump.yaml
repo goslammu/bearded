@@ -1,0 +1,46 @@
+—: ROOT
+——:
+  1: this is a set of information about person
+  2: who is interested in reaching well Go level
+  3: below you can find some about him
+———:
+  1:
+    —: PRIVATE INFO
+    ——:
+      1: Dmitry
+      2: Caiman
+      3: Russia
+      4: Saint Petersburg
+    ———:
+      1:
+        —: EDUCATION
+        ——:
+          1: Tomsk Polytechnic University
+          2: Electronics and Automation of Physical Equipment
+          3: graduated in 2019
+          4: as an engineer-physicist
+        ———: {}
+      2:
+        —: WORK EXPIRIENCE
+        ——:
+          1: aug 2019...dec 2022 - SCADA engineer
+          2: jan 2023...now - junior Go-developer
+        ———: {}
+      3:
+        —: HARD SKILLS
+        ——:
+          1: HTTP(S)
+          2: WebSocket
+          3: gRPC
+          4: PostgreSQL
+          5: testing
+          6: benchmarking
+        ———: {}
+      4:
+        —: SOFT SKILLS
+        ——:
+          1: ready for self-development
+          2: work well under pressure
+          3: able to collaborate
+          4: open for communicate
+        ———: {}
